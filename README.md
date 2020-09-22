@@ -21,6 +21,5 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ## The website page looks like this
 
-![website-page] (UFO-level-1/images/level-1.png)
-
+![website-page](UFO-level-1/images/level-1.png)
 
